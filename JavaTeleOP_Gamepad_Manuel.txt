@@ -1,0 +1,14 @@
+Motors:
+	Big Wheel (motor 1): right stick
+	Arm (motor 0): left stick
+	
+Servos:
+	Claw (servo 0): a to close, 
+					b to open
+					
+	CR Servo (servo 1): dpad_up to go up, 
+						dpad_down to go down, 
+						left bumper to stop
+	
+	Bottom Servo (servo 2): dpad_left to go left position, 
+							dpad_right to go to right position
